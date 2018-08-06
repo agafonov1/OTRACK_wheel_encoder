@@ -3,7 +3,7 @@
 // 2*pi*R - lenght of circle   actual lenght of circle = 502,4 mm (might we use 0.8 meter?) 
 // per pulse = 25 um. 
 const int32_t um_per_pulse = 25; 
-const int32_t ms_vcom_update_rate = 1000; //one times a second
+const int32_t ms_vcom_update_rate = 500; //two times a second
 
 // pads at PCB - channel A - DIO8, channel B - DIO9, reference channel - DIO10; 
 const byte channelA = 8;
