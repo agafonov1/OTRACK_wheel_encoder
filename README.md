@@ -27,7 +27,10 @@ Device also could accept simple commands:
 
 typical UART output is: 
   
-Reverse                                   #defines last spin direction  
-Number of turns: 5                        #number of full turns (from reference channel)
-Number of pulses overall: 112686          #overall number of pulses
-Overall distance (mm): 2817               #overall distance in mm. 
+Reverse                                         #defines last spin direction  
+
+Number of turns: 5                              #number of full turns (from reference channel)
+
+Number of pulses overall: 112686                #overall number of pulses
+
+Overall distance (mm): 2817                     #overall distance in mm. 
